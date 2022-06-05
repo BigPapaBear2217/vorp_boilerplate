@@ -27,7 +27,7 @@ If all else fails, restart your server entirely.
 ## Developer Tips
 1. Use `PlayerPedId()` dont use `GetPlayerPed(-1)` as it is more optimal
 2. If you are looking to calculate distance between coordinates. **Do not** use `GetDistanceBetweenCoords`, instead **use** with Lua math `#(vector3 - vector3)` or `Vdist2`  its much faster and optimized
-3. Dont use `table.insert use` USE ` tableName[#tableName+1] = useThis`
+3. Dont use `table.insert` USE ` tableName[#tableName+1] = useThis`
 4. Control your `Citizen.CreateThread` `while true` loops with ` sleep = Wait(1000)` in the threads to control the threads tick rate (how often/fast the loop cycles)
 5. Use local variables whenever you can to help reduce your scripts overall memory consumption. _Example:_ `local str = "hello"`
 6. Instead of `if this ~= nil` use `if this then`. This method checks for nil and/or false at the same time
