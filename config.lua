@@ -1,4 +1,4 @@
 Config = {}
 
 -- Active language/locale
-Config.Locale = "en"
+Config.defaultlang = "en_lang"
