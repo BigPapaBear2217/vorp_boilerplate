@@ -13,7 +13,7 @@ A Boilerplate, this boilerplate, is a simple template script with a plethora of 
 
 ## How can I use this Codebase?
     1. Use this to learn
-    2. Remove what you don't want to use and use this as your scripts base. <<<<<<<<<<<<<< **!importand**
+    2. Remove what you don't want to use and use this as your scripts base. <<<<<<<<<<<<< **!important**
     3. Use this as a reference resource
     4. Use this to standardize your code with ours
     5. Use this code as you please
