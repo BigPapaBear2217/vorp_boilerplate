@@ -9,6 +9,3 @@ Due to the nature of client code, any code in the client can be seen/modified by
 ## Helper Functions
 Any helper functions added to server/functions.lua can be utilized in Client side code.
 - Abstract your functions and keep the main files clean.
-
-## Exports
-If you are not using `DataViewNativeGetEventData`, then you can delete the `main.js `file and remove the export within the `fxmanifest.lua`

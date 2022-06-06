@@ -3,7 +3,7 @@
 
 ## How To Add a new Language
 1. Cleate a new file 
-  - Exapmle: es.lua
+  - Example: es.lua
 2. Copy/Paste and Modify the below code
   ```lua
     Locales["es"] = {
