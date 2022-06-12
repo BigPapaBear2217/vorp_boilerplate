@@ -28,6 +28,7 @@ shared_scripts {
 ---------------- Remove these if you do not wish to have a custom UI ----------------
 files {
     'ui/*',
+    'ui/vendor/*',
     'ui/assets/*',
     'ui/assets/fonts/*'
 }
